@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092856288333",
+    "firebase_url": "https://my-app-1f39b.firebaseio.com",
+    "project_id": "my-app-1f39b",
+    "storage_bucket": "my-app-1f39b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092856288333:android:d6153f80ac3842d4723804",
+        "android_client_info": {
+          "package_name": "com.qasim.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092856288333-nv62gs49m1rq4frnqj8tmve18gjrnt0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qasim.firebase",
+            "certificate_hash": "3354a4e4f4945603b7daa094633943d1754536a7"
+          }
+        },
+        {
+          "client_id": "1092856288333-u6f4eiko416jl0m56j7h9hhu6r24mbm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgmj_7Aphr_-iSNmDxB9TkJ3CsYeJx96E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092856288333-u6f4eiko416jl0m56j7h9hhu6r24mbm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
